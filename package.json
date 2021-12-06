@@ -1,0 +1,12 @@
+{
+  "name": "sokoban-3d",
+  "version": "1.0.0",
+  "description": "Sokoban 3D using three.js",
+  "main": "index.html",
+  "repository": "https://github.com/WillySu/Sokoban3D.git",
+  "author": "Willy Su <willhuntersu@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.135.0"
+  }
+}
